@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "SpacemonkeyChina30-05-dibujo")(type KiCad)(uri "$(KIPRJMOD)/SpacemonkeyChina30-05-dibujo.pretty")(options "")(descr ""))
+)
