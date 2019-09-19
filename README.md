@@ -1,7 +1,7 @@
 # ********************** Space Monkey! **********************
 ## ********* Juguete sonoro programable / open source diy synth *****************
 
-<p align="center"> <img src="https://raw.githubusercontent.com/marsfactory/spacemonkey/master/Images%2C%20manuals%2C%20etc/g9118-4-3-1.png" width="850"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/marsfactory/spacemonkey/master/Images%2C%20manuals%2C%20etc/g9118-4-3-1.png" width="650"/> </p>
 
 Space monkey es un desarrollo abierto basado en el chip attiny 85, utiliza la funcion tone() para generar una onda cuadrada y recorrer 
 una escala preprogramada a modo de arpeggio. La altura del arpeggio depende de nuestra interaccion con su interfaz tactil ( el cerebro 
